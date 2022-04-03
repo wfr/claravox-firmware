@@ -3,7 +3,7 @@ This repository contains a copy of Moog's Claravox theremin firmware.
 
 Claravox-\*.syx © Moog Music Inc.
 
-## Upstream changelog
+## Changelog
 ### 1.0.2
 - Properly use MSB and LSB for interpreting RPN 0 Pitch Bend Sensitivity.
 - Express instrument MIDI input and output channels as absolute numbers instead
